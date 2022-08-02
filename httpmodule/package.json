@@ -1,0 +1,16 @@
+{
+  "name": "httpmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "httpmodule.js",
+  "dependencies": {},
+  "devDependencies": {
+    "ejs": "^3.1.8"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
